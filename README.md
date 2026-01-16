@@ -103,9 +103,9 @@ The final output is an interactive Power BI dashboard that allows users to monit
 ---
 
 ## 👤 Author
-**[Chatraoui Hamza]**
+**Chatraoui Hamza**
 * *Engineering Student - Big Data & Information Systems*
-* [linkedin.com/in/chatraoui-hamza]
+* linkedin.com/in/chatraoui-hamza
 
 ---
 *Note: This project is part of an academic portfolio demonstrating Cloud Data Engineering skills.*
